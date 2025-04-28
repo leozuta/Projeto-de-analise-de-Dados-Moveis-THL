@@ -1,16 +1,1 @@
-# flutter_application_1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Neste projeto é feito a utilização e criação de 2(dois) sistemas. O aplicativel movel coleta e armazena os aplicativos que mais consumiram dados moveis em um determinado tempo. Ja o programa para computador exibe essas informações para uma melhor análise. O intuito de criar esses sistemas é para o supervisor ter melhor controle e gestão dos aparelhos usados pelas equipes em serviço, além de substituir a ação de tirar prints de cada aparelho.
