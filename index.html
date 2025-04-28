@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Monitoramento de Dados Móveis</title>
+</head>
+<body>
+    <h1> Uso de Dados Móveis</h1>
+    <table border="1">
+        <tr>
+            <th>Aparelho</th>
+            <th>Uso de Dados (MB)</th>
+            <th>Data/Hora</th>
+        </tr>
+        {% for row in data %}
+        <tr>
+            <td>{{ row['device_name'] }}</td>
+            <td>{{ row['data_used_mb'] }}</td>
+            <td>{{ row['timestamp'] }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>
