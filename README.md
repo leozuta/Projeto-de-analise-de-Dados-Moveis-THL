@@ -1,0 +1,1 @@
+Neste projeto, um aplicativo movel faz a analise e coleta os aplicativos que mais utilizaram dados moveis em determinada horario, e um programa no computador recebe estes dados e exibe em uma interface. O intuito de sua criação é melhor analise dos dados por parte do supervisor, e a praticidade na palma da mão em vez de tirar varios prints.
