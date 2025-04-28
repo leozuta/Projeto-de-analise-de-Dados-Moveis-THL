@@ -1,1 +1,16 @@
-Neste projeto, um aplicativo movel faz a analise e coleta os aplicativos que mais utilizaram dados moveis em determinada horario, e um programa no computador recebe estes dados e exibe em uma interface. O intuito de sua criação é melhor analise dos dados por parte do supervisor, e a praticidade na palma da mão em vez de tirar varios prints.
+# flutter_application_1
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
